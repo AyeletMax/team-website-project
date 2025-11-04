@@ -1,9 +1,9 @@
 body {
     font-family: Arial, sans-serif;
     background: linear-gradient(135deg, #667eea, #764ba2);
-    color: white;
+    color: rgb(170, 80, 80);
     padding: 20px;
-    border:#667eea;
+    border:#b9bdce;
 }
 
 h1 {
