@@ -3,9 +3,14 @@ body {
     background: linear-gradient(135deg, #667eea, #764ba2);
     color: white;
     padding: 20px;
-    border:#667eea;
 }
 
 h1 {
     text-align: center;
+}
+
+footer {
+    text-align: center;
+    margin-top: 50px;
+    padding: 20px;
 }
